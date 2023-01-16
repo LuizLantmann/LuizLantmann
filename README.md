@@ -1,7 +1,7 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div> 
-  <a href="mailto:luizzlantmann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"><a href="https://www.linkedin.com/in/luiz-eduardo-campos-lantmann-b7878b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luizzlantmann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.linkedin.com/in/luiz-eduardo-campos-lantmann-b7878b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 [![@_dead_pixel's Holopin board](https://holopin.io/api/user/board?user=_dead_pixel)](https://holopin.io/@_dead_pixel)
@@ -10,8 +10,7 @@
   
 <div align="center">
   <a href="https://github.com/LuizLantmann">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizLantmann&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLantmann&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizLantmann&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLantmann&layout=compact&langs_count=7&theme=highcontrast"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizLantmann&&theme=highcontrast" alt="LuizLantmann GitHubStats" /></p>
 </div>
      
