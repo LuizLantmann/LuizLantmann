@@ -12,12 +12,12 @@
   
   ##
   
-<div>
+<div align="center">
   <a href="https://github.com/LuizLantmann">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizLantmann&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLantmann&layout=compact&langs_count=7&theme=highcontrast"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizLantmann&&theme=highcontrast" alt="LuizLantmann GitHubStats" /></p>
 </div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizLantmann&&theme=highcontrast" alt="LuizLantmann GitHubStats" /></div>
      
   
 ### 🛠 &nbsp;Languages and Tools :
