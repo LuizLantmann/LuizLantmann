@@ -1,7 +1,7 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div> 
-  <a href="mailto:luizzlantmann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.linkedin.com/in/luiz-eduardo-campos-lantmann-b7878b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luizzlantmann@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"> <a href="https://www.linkedin.com/in/luiz-eduardo-campos-lantmann-b7878b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 [![@_dead_pixel's Holopin board](https://holopin.io/api/user/board?user=_dead_pixel)](https://holopin.io/@_dead_pixel)
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/LuizLantmann">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizLantmann&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/> 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLantmann&layout=compact&langs_count=7&theme=highcontrast"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLantmann&layout=compact&langs_count=7&theme=highcontrast"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizLantmann&&theme=highcontrast" alt="LuizLantmann GitHubStats" /></p>
 </div>
      
