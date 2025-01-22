@@ -4,7 +4,9 @@
  ###  You can reach me here:  
 
 <span> 
-  <a href="mailto:luizzlantmann@gmail.com"> 📬 <a href="https://www.linkedin.com/in/luizlantmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luizzlantmann@gmail.com"> Email: 📬 
+  <a href="https://www.linkedin.com/in/luizlantmann/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </span>
 
   ##
